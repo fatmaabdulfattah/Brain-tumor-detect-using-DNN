@@ -1,7 +1,7 @@
 # Brain Tumor Detection Using Deep Learning
 
 ## Overview
-This repository contains the implementation of a deep learning model (NN) for detecting brain tumors from MRI images. The model is trained on a dataset hosted on Kaggle. The dataset is available at Kaggle Brain MRI Dataset.
+This repository contains the implementation of a deep learning model (NN) for detecting brain tumors from MRI images. The model is trained on a dataset hosted on Kaggle.
 
 ## Dataset
 The dataset contains images of brain MRI scans labeled as "Normal" or "Tumor." These images are used for detecting potential brain tumors by image classification. The dataset is divided into two categories:
@@ -12,9 +12,9 @@ Dataset Link: Brain MRI Images for Brain Tumor Detection Dataset
 
 My Kaggle Code: Brain Tumor Detection NN
 
-**Dataset Link**: [Brain MRI Images for Brain Tumor Detection Dataset](https://www.kaggle.com/datasets/ahmedkhlifi/brain-mri-images-for-brain-tumor-detection)
+**Dataset Link**: [Brain MRI Images for Brain Tumor Detection Dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
-**My Kaggle Code**: [Brain Tumor Detection CNN](https://www.kaggle.com/code/yourusername/brain-tumor-detection-cnn)
+**My Kaggle Code**: [Brain Tumor Detection](https://www.kaggle.com/code/fatmaabdulfattah/brain-tumor-detect-using-dnn/notebook)
 
 ## Description
 This project demonstrates how to train a deep learning model to classify brain tumors using MRI images. It includes:
@@ -44,17 +44,8 @@ To run the notebook and Streamlit app, you need to install the following librari
 - `seaborn`
 - `pandas`
 
-You can install these in your Kaggle environment or local Python environment:
-
-```bash
-pip install tensorflow numpy opencv-python matplotlib scikit-learn seaborn pandas
-
-
 ### Streamlit App Dependencies
 - `streamlit==1.34.0`
 - `pillow`
 
-You can install these in your local Python environment:
 
-```bash
-pip install streamlit pillow
