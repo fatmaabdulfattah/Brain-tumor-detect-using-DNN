@@ -8,9 +8,6 @@ The dataset contains images of brain MRI scans labeled as "Normal" or "Tumor." T
 
 Normal Brain
 Tumor Detected
-Dataset Link: Brain MRI Images for Brain Tumor Detection Dataset
-
-My Kaggle Code: Brain Tumor Detection NN
 
 **Dataset Link**: [Brain MRI Images for Brain Tumor Detection Dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
